@@ -30,7 +30,7 @@ RS03: The application should have multiple endings based on the decisions made b
 
 **F08:** Storyline character creation
 	
-	*Can start out with no physical characters and just have a photo or profile photo that pops up when they are in play
+	* Can start out with no physical characters and just have a photo or profile photo that pops up when they are in play
 
 **F09:** Bank account for game (checking and savings)
 
